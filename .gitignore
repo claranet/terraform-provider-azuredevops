@@ -2,6 +2,8 @@
 .vscode/
 bin/
 
+# builds
+dist/
 terraform-provider-azure-devops
 terraform.log
 crash.log
